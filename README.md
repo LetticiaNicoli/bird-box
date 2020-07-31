@@ -6,6 +6,10 @@
 
 ---
 
+
+  ![Update gist with latest tweet](https://github.com/LetticiaNicoli/bird-box/workflows/Update%20gist%20with%20latest%20tweet/badge.svg)
+
+
 > 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
 
 ## Setup
@@ -31,4 +35,5 @@
    - **TWITTER_CONSUMER_KEY:** Your Twitter consumer API key.
    - **TWITTER_CONSUMER_SECRET:** Your Twitter consumer secret.
    - **TWITTER_ACCESS_TOKEN_KEY:** Your Twitter access token key.
-   - **TWITTER_ACCESS_TOKEN_SECRET:** Your Twitter access token secret.
+   - **TWITTER_ACCESS_TOKEN_SECRET:** Your Twitter access token secret.  
+  
